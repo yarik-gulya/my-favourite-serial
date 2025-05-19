@@ -150,3 +150,7 @@ section{
     height: 100%;
     display: block;
 }
+
+.facts-list li{
+    margin: 10px;
+}
